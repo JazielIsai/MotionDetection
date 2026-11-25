@@ -1,0 +1,16 @@
+# Entorno y caché de Python
+.venv/
+__pycache__/
+
+# Secretos (token de Telegram)
+.env
+
+# Datos generados por el programa
+capturas/
+zona.json
+*.pt
+modelos/
+
+# Archivos personales del IDE
+.idea/workspace.xml
+.idea/shelf/
